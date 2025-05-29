@@ -40,6 +40,7 @@ main{
     
     background-color: var(--white);
     max-width: 25rem;
+    min-height: 100vh;
     border-radius: 1rem;
 }
 .topImage{
